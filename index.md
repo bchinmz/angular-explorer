@@ -17,7 +17,7 @@ This will setup the angular framework.
 
 
 
-![alt text](https://github.com/bchinmz/angular-explorer/blob/master/images/GettingStartedForAngular/setting-up-framework.png "framework setup in progress")
+![alt text](https://raw.githubusercontent.com/bchinmz/angular-explorer/master/images/GettingStartedForAngular/setting-up-framework.png "framework setup in progress")
 
 Busy downloading library and setting up the framework
 
@@ -25,13 +25,13 @@ Busy downloading library and setting up the framework
 
 
 
-![alt text](https://github.com/bchinmz/angular-explorer/blob/master/images/GettingStartedForAngular/setup-completed.png "setup completed")
+![alt text](https://raw.githubusercontent.com/bchinmz/angular-explorer/master/images/GettingStartedForAngular/setup-completed.png "setup completed")
 
 Finally completed yeah.. Ignoring the deprecated warning… see no evil
 
 
 Execute `ng serve --open` in your newly created folder. (Don’t make the same mistake as I do below)
-![alt text](https://github.com/bchinmz/angular-explorer/blob/master/images/GettingStartedForAngular/serve-app.png "using nodejs to serve your angular app")
+![alt text](https://raw.githubusercontent.com/bchinmz/angular-explorer/master/images/GettingStartedForAngular/serve-app.png "using nodejs to serve your angular app")
 
 Magic in progress
 
@@ -45,7 +45,7 @@ In my terms: it does magic.
 There you go. First angular app up and running.
 
 
-![alt text](https://github.com/bchinmz/angular-explorer/blob/master/images/GettingStartedForAngular/first-app.png "ta-da~ your first app")
+![alt text](https://raw.githubusercontent.com/bchinmz/angular-explorer/master/images/GettingStartedForAngular/first-app.png "ta-da~ your first app")
 
 
 ## My opinion
