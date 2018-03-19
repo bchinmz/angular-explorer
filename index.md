@@ -7,7 +7,7 @@
   `npm install -g @angular/cli`
 
 ## First Angular App
-![alt text](https://github.com/bchinmz/angular-explorer/blob/master/images/GettingStartedForAngular/create-new-app.png "create your new angular app")
+![alt text](https://raw.githubusercontent.com/bchinmz/angular-explorer/master/images/GettingStartedForAngular/create-new-app.png "create your new angular app")
 
 This will setup the angular framework.
 
