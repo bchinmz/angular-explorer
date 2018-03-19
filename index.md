@@ -45,7 +45,7 @@ In my terms: it does magic.
 There you go. First angular app up and running.
 
 
-![alt text](https://raw.githubusercontent.com/bchinmz/angular-explorer/master/images/GettingStartedForAngular/first-app.png "ta-da~ your first app")
+![alt text](https://github.com/bchinmz/angular-explorer/blob/master/images/GettingStartedForAngular/first-app.png?raw=true "ta-da~ your first app")
 
 
 ## My opinion
