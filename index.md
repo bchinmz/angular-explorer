@@ -49,7 +49,7 @@ There you go. First angular app up and running.
 
 
 ## My opinion
-After searching high and low, dozing off several tutorial videos, I found that **Angular from theory to practice** by **Asim Hussain** is suitable for me to pick Angular from scratch. I start from minimal javascript knowledge. So some introduction about ES6/Typescript help me to pick up Angular faster. Easy to follow short tutorial is useful, as I can code and study at the same time. I learn faster with moving fingers.
+After searching high and low, dozing off several tutorial videos, I found that **Angular from theory to practice** by [Asim Hussain](https://codecraft.tv/courses/angular/) is suitable for me to pick Angular from scratch. I start from minimal javascript knowledge. So some introduction about ES6/Typescript help me to pick up Angular faster. Easy to follow short tutorial is useful, as I can code and study at the same time. I learn faster with moving fingers.
 
 
 Once master the basics, I move to [Angular IO](https://angular.io) to search for more information. It is like a dictionary for angular. However there is not much example given though. I found the documentation about angular best practice is useful for a beginner like me. It is better to start right.
